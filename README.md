@@ -1,16 +1,46 @@
-## Hi there 👋
+# Oii, sou a Dan Coronado 👋
 
-<!--
-**CoronadoD/CoronadoD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre Mim
 
-Here are some ideas to get you started:
+Estudante de Análise e Desenvolvimento de Sistemas no primeiro semestre, sou apaixonada por criar soluções inovadoras e aprender novas tecnologias. Atualmente, com foco no desenvolvimento de sistemas web variados para aprimorar minhas habilidades em codificação e adoro resolver problemas complexos que me desafiam a buscar novas soluções.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Minhas Habilidades
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,docker,aws" />
+  </a>
+</p>
+
+---
+
+### 🌱 O Que Estou Aprendendo/Explorando
+
+Atualmente, estou me aprofundando em React e explorando Performance Web e Otimização de UI/UX . Sempre em busca de novos desafios e conhecimentos!
+
+---
+
+### 📊 Estatísticas do GitHub
+
+![Seu Status no GitHub](https://github-readme-stats.vercel.app/api?username=CoronadoD&show_icons=true&theme=radical)
+![Suas Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=CoronadoD&layout=compact&theme=radical)
+
+---
+
+### 🤝 Como Me Conectar
+
+* **LinkedIn**: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/dâmaris-coronado-linkedin/)
+* **Email**: coronado_design@outlook.com
+* **Website/Portfólio**: [Seu Website/Portfólio](https://portfoliocoronadostud1o.netlify.app/)
