@@ -18,12 +18,6 @@ Estudante de Análise e Desenvolvimento de Sistemas no primeiro semestre, sou ap
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,docker,aws" />
-  </a>
-</p>
-
 ---
 
 ### 🌱 O Que Estou Aprendendo/Explorando
