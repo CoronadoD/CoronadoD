@@ -35,6 +35,6 @@ Atualmente, estou me aprofundando em React e explorando Performance Web e Otimiz
 
 ### 🤝 Como Me Conectar
 
-* **LinkedIn**: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/dâmaris-coronado-linkedin/)
-* **Email**: coronado_design@outlook.com
-* **Website/Portfólio**: [Seu Website/Portfólio](https://portfoliocoronadostud1o.netlify.app/)
+* **LinkedIn**: [Perfil no LinkedIn](https://www.linkedin.com/in/dâmaris-coronado-linkedin/)
+* **Email**: [Email](coronado_design@outlook.com)
+* **Website/Portfólio**: [Portfólio](https://portfoliocoronadostud1o.netlify.app/)
